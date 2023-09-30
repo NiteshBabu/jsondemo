@@ -10,5 +10,11 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "todos" : [
+    {"id" : 1, "title" : "Buy some Milk/Cookies", "completed" : true},
+    {"id" : 2, "title" : "Watch One Piece", "completed" : true},
+    {"id" : 3, "title" : "Check for Chocochips", "completed" : false},
+    {"id" : 4, "title" : "Project Builds", "completed" : false},
+  ]
 }
